@@ -28,13 +28,12 @@ public class myClass extends JPanel {
 		g2.setColor(Color.YELLOW);
 		g2.fillRect(0, 0, 1000, 1000);
 		for(int x = 0; x < 1920 ; x+=25){
-			g2.drawLine(x,0,1680,1080);
+			
 			
 		g2.setColor(Color.blue);
 		g2.fillRect(0, 0, 900, 200);
 		g2.drawLine(x,0,1680,1080);
 		
-	int	
 		
 		}
 }
